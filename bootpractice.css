@@ -1,0 +1,49 @@
+.box{
+	border: 1px solid lightblue;
+	box-shadow: -2px 2px 10px #000;
+	position: relative;
+	margin: 16px;
+}
+
+h3{
+font-size: 21px;
+color: #5CA5AE;
+padding: 10px;
+text-align: justify;
+font-family: 'Montserrat','Trebuchat MS',sans-serif;
+}
+
+p{
+	font-family: 'Montserrat','Trebuchat MS',sans-serif;
+	font-size: 15px;
+   text-align: justify;
+   padding: 10px;
+  color: #C38858;
+
+}
+
+.readmore{
+	position: absolute;
+	
+	bottom: 0px;
+	right: 0px;
+	border: 1px solid blue;
+font-weight:bold;
+width: 50px;
+height: 31px;
+width: 146px;
+background-color: #4349CB;
+color: white;
+text-align: center;
+padding-top: 5px;
+
+
+}
+
+h1{
+	text-align: center;
+	color: #5CA5AE;
+
+}
+
+
